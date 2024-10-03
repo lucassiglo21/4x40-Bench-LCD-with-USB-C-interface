@@ -1,0 +1,447 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ABSTRACT_CONTROL_MODEL::0x02	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	71;"	d	line:71
+ABSTRACT_STATE::0x01	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	85;"	d	line:85
+ADDRESS_STATE::5	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	62;"	d	line:62
+ADR	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	123;"	m	line:123	struct:_BDT::<anonymous>
+ADRH	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	117;"	m	line:117	struct:_BDT::<anonymous>
+ADRL	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	116;"	m	line:116	struct:_BDT::<anonymous>
+ADR_PENDING_STATE::4	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	61;"	d	line:61
+ATTACHED_STATE::1	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	58;"	d	line:58
+BC8	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	84;"	m	line:84	struct:_BD_STAT::<anonymous>
+BC8	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	94;"	m	line:94	struct:_BD_STAT::<anonymous>
+BC9	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	85;"	m	line:85	struct:_BD_STAT::<anonymous>
+BC9	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	95;"	m	line:95	struct:_BD_STAT::<anonymous>
+BDT	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	125;"	t	line:125
+BD_STAT	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	108;"	t	line:108
+BL::PORTCbits.RC1	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	77;"	d	line:77
+BOOL	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	150;"	t	line:150
+BSTALL	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	86;"	m	line:86	struct:_BD_STAT::<anonymous>
+BYTE	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	58;"	t	line:58
+Byte0	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	103;"	m	line:103	struct:_DWORD::<anonymous>
+Byte0	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	70;"	m	line:70	struct:_WORD::<anonymous>
+Byte1	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	104;"	m	line:104	struct:_DWORD::<anonymous>
+Byte1	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	71;"	m	line:71	struct:_WORD::<anonymous>
+Byte2	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	105;"	m	line:105	struct:_DWORD::<anonymous>
+Byte3	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	106;"	m	line:106	struct:_DWORD::<anonymous>
+CARRIER_CONTROL	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	284;"	m	line:284	struct:_CONTROL_SIGNAL_BITMAP::<anonymous>
+CDCInitEP	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	169;"	f	line:169	signature:(void)
+CDCInitEP	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	339;"	p	line:339	signature:(void)
+CDCTxService	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	448;"	f	line:448	signature:(void)
+CDCTxService	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	343;"	p	line:343	signature:(void)
+CDC_BULK_BD_IN::ep3Bi	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	77;"	d	line:77
+CDC_BULK_BD_OUT::ep3Bo	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	75;"	d	line:75
+CDC_BULK_IN_EP_SIZE::64	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	78;"	d	line:78
+CDC_BULK_OUT_EP_SIZE::64	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	76;"	d	line:76
+CDC_COMM_INTF_ID::0x00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	68;"	d	line:68
+CDC_COMM_UEP::UEP2	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	69;"	d	line:69
+CDC_DATA_INTF_ID::0x01	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	73;"	d	line:73
+CDC_DATA_UEP::UEP3	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	74;"	d	line:74
+CDC_DEVICE::0x02	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	65;"	d	line:65
+CDC_H	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	37;"	d	line:37
+CDC_INT_BD_IN::ep2Bi	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	70;"	d	line:70
+CDC_INT_EP_SIZE::8	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	71;"	d	line:71
+CDC_TX_BUSY::1	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	108;"	d	line:108
+CDC_TX_BUSY_ZLP::2	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	109;"	d	line:109
+CDC_TX_COMPLETING::3	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	110;"	d	line:110
+CDC_TX_READY::0	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	107;"	d	line:107
+CFG01::romstruct\	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	54;"	d	line:54
+CLEAR_COMM_FEATURE::0x04	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	49;"	d	line:49
+COMM_INTF::0x02	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	68;"	d	line:68
+CONFIGURED_STATE::6	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	63;"	d	line:63
+CONTROL_SIGNAL_BITMAP	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	286;"	t	line:286
+COUNTRY_SETTING::0x02	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	86;"	d	line:86
+CS_ENDPOINT::0x25	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	91;"	d	line:91
+CS_INTERFACE::0x24	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	90;"	d	line:90
+CT::PORTCbits.RC2	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	80;"	d	line:80
+ClassReqHandler	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	263;"	v	line:263
+ClearArray	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	575;"	f	line:575	signature:(byte* startAdr,byte count)
+Cnt	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	115;"	m	line:115	struct:_BDT::<anonymous>
+CtrlTrfData	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	269;"	v	line:269
+DATA::PORTB	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	83;"	d	line:83
+DATA_INTF::0x0A	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	78;"	d	line:78
+DEFAULT_STATE::3	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	60;"	d	line:60
+DETACHED_STATE::0	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	57;"	d	line:57
+DSC_FN_ACM::0x02	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	96;"	d	line:96
+DSC_FN_CALL_MGT::0x01	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	95;"	d	line:95
+DSC_FN_COUNTRY_SELECTION::0x07	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	101;"	d	line:101
+DSC_FN_DLM::0x03	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	97;"	d	line:97
+DSC_FN_HEADER::0x00	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	94;"	d	line:94
+DSC_FN_RPT_CAPABILITIES::0x05	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	99;"	d	line:99
+DSC_FN_TELEPHONE_RINGER::0x04	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	98;"	d	line:98
+DSC_FN_TEL_OP_MODES::0x08	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	102;"	d	line:102
+DSC_FN_UNION::0x06	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	100;"	d	line:100
+DSC_FN_USB_TERMINAL::0x09	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	103;"	d	line:103
+DTE_PRESENT	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	283;"	m	line:283	struct:_CONTROL_SIGNAL_BITMAP::<anonymous>
+DTS	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	90;"	m	line:90	struct:_BD_STAT::<anonymous>
+DTSEN	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	87;"	m	line:87	struct:_BD_STAT::<anonymous>
+DWORD	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	117;"	t	line:117
+EN1::PORTAbits.RA0	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	65;"	d	line:65
+EN2::PORTAbits.RA3	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	74;"	d	line:74
+EP0_BUFF_SIZE::8	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	38;"	d	line:38
+FAIL::FALSE	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	153;"	d	line:153
+FALSE	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	150;"	e	line:150	enum:_BOOL
+GET_COMM_FEATURE::0x03	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	48;"	d	line:48
+GET_ENCAPSULATED_RESPONSE::0x01	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	46;"	d	line:46
+GET_LINE_CODING::0x21	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	51;"	d	line:51
+HighB	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	76;"	m	line:76	struct:_WORD::<anonymous>
+INCDIS	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	88;"	m	line:88	struct:_BD_STAT::<anonymous>
+INPUT_PIN::1	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	44;"	d	line:44
+IO_CFG_H	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	38;"	d	line:38
+InitializeSystem	C:\MCHPFSUSB\fw\Cdc\main.c	152;"	f	line:152	file:	signature:(void)
+InitializeSystem	C:\MCHPFSUSB\fw\Cdc\main.c	92;"	p	line:92	file:	signature:(void)
+KEN	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	89;"	m	line:89	struct:_BD_STAT::<anonymous>
+LCDbusy	C:\MCHPFSUSB\fw\Cdc\user\user.c	106;"	p	line:106	file:	signature:(void)
+LCDbusy	C:\MCHPFSUSB\fw\Cdc\user\user.c	306;"	f	line:306	signature:(void)
+LCDch	C:\MCHPFSUSB\fw\Cdc\user\user.c	102;"	p	line:102	file:	signature:(char onebyte)
+LCDch	C:\MCHPFSUSB\fw\Cdc\user\user.c	349;"	f	line:349	signature:(char onebyte)
+LCDcustom	C:\MCHPFSUSB\fw\Cdc\user\user.c	107;"	p	line:107	file:	signature:(void)
+LCDcustom	C:\MCHPFSUSB\fw\Cdc\user\user.c	285;"	f	line:285
+LCDposition	C:\MCHPFSUSB\fw\Cdc\user\user.c	103;"	p	line:103	file:	signature:(char col, char row)
+LCDposition	C:\MCHPFSUSB\fw\Cdc\user\user.c	368;"	f	line:368	signature:(char col, char row)
+LCDready	C:\MCHPFSUSB\fw\Cdc\user\user.c	77;"	v	line:77
+LCDsetupstate	C:\MCHPFSUSB\fw\Cdc\user\user.c	78;"	v	line:78
+LCDw	C:\MCHPFSUSB\fw\Cdc\user\user.c	101;"	p	line:101	file:	signature:(char onebyte)
+LCDw	C:\MCHPFSUSB\fw\Cdc\user\user.c	332;"	f	line:332	signature:(char onebyte)
+LINE_CODING	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	276;"	t	line:276
+LINE_CODING_LENGTH::0x07	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	261;"	d	line:261
+LOWER_LSB::(a)((a).v[0])	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	118;"	d	line:118
+LOWER_MSB::(a)((a).v[1])	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	119;"	d	line:119
+LSB::(a)((a).v[0])	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	83;"	d	line:83
+LowB	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	75;"	m	line:75	struct:_WORD::<anonymous>
+MAX_EP_NUMBER::3	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	80;"	d	line:80
+MAX_NUM_INT::1	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	39;"	d	line:39
+MODE_PP::_PPBM0	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	42;"	d	line:42
+MSB::(a)((a).v[1])	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	84;"	d	line:84
+MUID_CDC::3	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	59;"	d	line:59
+MUID_HID::2	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	58;"	d	line:58
+MUID_MSD::4	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	60;"	d	line:60
+MUID_NULL::0	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	56;"	d	line:56
+MUID_USB9::1	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	57;"	d	line:57
+NETWORK_CONNECTION::0x00	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	59;"	d	line:59
+NO_PROTOCOL::0x00	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	81;"	d	line:81
+OK::TRUE	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	152;"	d	line:152
+OUTPUT_PIN::0	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	45;"	d	line:45
+PID	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	105;"	m	line:105	struct:_BD_STAT::<anonymous>
+PID0	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	96;"	m	line:96	struct:_BD_STAT::<anonymous>
+PID1	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	97;"	m	line:97	struct:_BD_STAT::<anonymous>
+PID2	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	98;"	m	line:98	struct:_BD_STAT::<anonymous>
+PID3	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	99;"	m	line:99	struct:_BD_STAT::<anonymous>
+POINTER	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	148;"	t	line:148
+POWERED_STATE::2	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	59;"	d	line:59
+ProcessIO	C:\MCHPFSUSB\fw\Cdc\user\user.c	154;"	f	line:154	signature:(void)
+ProcessIO	C:\MCHPFSUSB\fw\Cdc\user\user.h	42;"	p	line:42	signature:(void)
+RESPONSE_AVAILABLE::0x01	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	60;"	d	line:60
+RS::PORTAbits.RA2	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	71;"	d	line:71
+RW::PORTAbits.RA1	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	68;"	d	line:68
+RemoteWakeup	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	75;"	m	line:75	struct:_USB_DEVICE_STATUS::<anonymous>
+SEND_BREAK::0x23	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	53;"	d	line:53
+SEND_ENCAPSULATED_COMMAND::0x00	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	45;"	d	line:45
+SERIAL_STATE::0x20	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	61;"	d	line:61
+SET_COMM_FEATURE::0x02	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	47;"	d	line:47
+SET_CONTROL_LINE_STATE::0x22	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	52;"	d	line:52
+SET_LINE_CODING::0x20	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	50;"	d	line:50
+SetupPkt	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	268;"	v	line:268
+Stat	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	114;"	m	line:114	struct:_BDT::<anonymous>
+TRISBL::TRISCbits.TRISC1	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	78;"	d	line:78
+TRISCT::TRISCbits.TRISC2	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	81;"	d	line:81
+TRISDATA::TRISB	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	84;"	d	line:84
+TRISEN1::TRISAbits.TRISA0	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	66;"	d	line:66
+TRISEN2::TRISAbits.TRISA3	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	75;"	d	line:75
+TRISRS::TRISAbits.TRISA2	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	72;"	d	line:72
+TRISRW::TRISAbits.TRISA1	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	69;"	d	line:69
+TRUE	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	150;"	e	line:150	enum:_BOOL
+TYPEDEFS_H	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	38;"	d	line:38
+UCFG_VAL::_PUEN|_TRINT|_FS|MODE_PP	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	43;"	d	line:43
+UOWN	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	101;"	m	line:101	struct:_BD_STAT::<anonymous>
+UOWN	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	91;"	m	line:91	struct:_BD_STAT::<anonymous>
+UPPER_LSB::(a)((a).v[2])	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	120;"	d	line:120
+UPPER_MSB::(a)((a).v[3])	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	121;"	d	line:121
+USBCFG_H	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	35;"	d	line:35
+USBCheckBusStatus	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	76;"	f	line:76	signature:(void)
+USBCheckCDCRequest	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	88;"	f	line:88	signature:(void)
+USBCheckCDCRequest	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	338;"	p	line:338	signature:(void)
+USBCheckStdRequest	C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c	70;"	f	line:70	signature:(void)
+USBCtrlEPService	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	78;"	f	line:78	signature:(void)
+USBCtrlEPServiceComplete	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	382;"	f	line:382	signature:(void)
+USBCtrlTrfInHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	221;"	f	line:221	signature:(void)
+USBCtrlTrfInHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	54;"	p	line:54	file:	signature:(void)
+USBCtrlTrfOutHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	176;"	f	line:176	signature:(void)
+USBCtrlTrfOutHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	53;"	p	line:53	file:	signature:(void)
+USBCtrlTrfRxService	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	330;"	f	line:330	signature:(void)
+USBCtrlTrfSetupHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	133;"	f	line:133	signature:(void)
+USBCtrlTrfSetupHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	52;"	p	line:52	file:	signature:(void)
+USBCtrlTrfTxService	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	260;"	f	line:260	signature:(void)
+USBDSC_H	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	40;"	d	line:40
+USBDriverService	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	215;"	f	line:215	signature:(void)
+USBErrorHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	524;"	f	line:524	signature:(void)
+USBErrorHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	56;"	p	line:56	file:	signature:(void)
+USBMMAP_H	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	38;"	d	line:38
+USBModuleDisable	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	161;"	f	line:161	signature:(void)
+USBModuleDisable	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	48;"	p	line:48	file:	signature:(void)
+USBModuleEnable	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	135;"	f	line:135	signature:(void)
+USBModuleEnable	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	47;"	p	line:47	file:	signature:(void)
+USBPrepareForNextSetupTrf	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	490;"	f	line:490	signature:(void)
+USBProtocolResetHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	53;"	p	line:53	file:	signature:(void)
+USBProtocolResetHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	551;"	f	line:551	signature:(void)
+USBRemoteWakeup	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	404;"	f	line:404	signature:(void)
+USBSoftDetach	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	192;"	f	line:192	signature:(void)
+USBStallHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	488;"	f	line:488	signature:(void)
+USBStallHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	55;"	p	line:55	file:	signature:(void)
+USBStdFeatureReqHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c	275;"	f	line:275	signature:(void)
+USBStdFeatureReqHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c	50;"	p	line:50	file:	signature:(void)
+USBStdGetDscHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c	136;"	f	line:136	signature:(void)
+USBStdGetDscHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c	47;"	p	line:47	file:	signature:(void)
+USBStdGetStatusHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c	218;"	f	line:218	signature:(void)
+USBStdGetStatusHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c	49;"	p	line:49	file:	signature:(void)
+USBStdSetCfgHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c	180;"	f	line:180	signature:(void)
+USBStdSetCfgHandler	C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c	48;"	p	line:48	file:	signature:(void)
+USBSuspend	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	297;"	f	line:297	signature:(void)
+USBSuspend	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	50;"	p	line:50	file:	signature:(void)
+USBTasks	C:\MCHPFSUSB\fw\Cdc\main.c	185;"	f	line:185	signature:(void)
+USBTasks	C:\MCHPFSUSB\fw\Cdc\main.c	93;"	p	line:93	file:	signature:(void)
+USBWakeFromSuspend	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	355;"	f	line:355	signature:(void)
+USBWakeFromSuspend	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	51;"	p	line:51	file:	signature:(void)
+USB_BUS_ATTACHED::1	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	82;"	d	line:82	file:
+USB_BUS_DETACHED::0	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	83;"	d	line:83	file:
+USB_CDC_ACM_FN_DSC	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	307;"	t	line:307
+USB_CDC_CALL_MGT_FN_DSC	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	327;"	t	line:327
+USB_CDC_HEADER_FN_DSC	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	298;"	t	line:298
+USB_CDC_UNION_FN_DSC	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	317;"	t	line:317
+USB_CD_Ptr	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	260;"	v	line:260
+USB_DEVICE_STATUS	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	78;"	t	line:78
+USB_H	C:\MCHPFSUSB\fw\Cdc\system\usb\usb.h	37;"	d	line:37
+USB_SD_Ptr	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	261;"	v	line:261
+USB_SOF_Handler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	445;"	f	line:445	signature:(void)
+USB_SOF_Handler	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	54;"	p	line:54	file:	signature:(void)
+USB_USE_CDC	C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h	49;"	d	line:49
+USER_H	C:\MCHPFSUSB\fw\Cdc\user\user.h	38;"	d	line:38
+UserInit	C:\MCHPFSUSB\fw\Cdc\user\user.c	112;"	f	line:112	signature:(void)
+UserInit	C:\MCHPFSUSB\fw\Cdc\user\user.h	41;"	p	line:41	signature:(void)
+V25TER::0x01	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	74;"	d	line:74
+WORD	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	82;"	t	line:82
+Word0	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	110;"	m	line:110	struct:_DWORD::<anonymous>
+Word1	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	111;"	m	line:111	struct:_DWORD::<anonymous>
+_BDT	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	110;"	u	line:110
+_BD_STAT	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	80;"	u	line:80
+_BOOL	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	150;"	g	line:150
+_BSTALL::0x04	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	46;"	d	line:46
+_BYTE	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	44;"	u	line:44
+_CONTROL_SIGNAL_BITMAP	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	278;"	u	line:278
+_DAT0::0x00	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	50;"	d	line:50
+_DAT1::0x40	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	51;"	d	line:51
+_DTSEN::0x08	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	47;"	d	line:47
+_DTSMASK::0x40	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	52;"	d	line:52
+_DWORD	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	86;"	u	line:86
+_INCDIS::0x10	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	48;"	d	line:48
+_KEN::0x20	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	49;"	d	line:49
+_LINE_CODING	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	263;"	u	line:263
+_POINTER	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	125;"	u	line:125
+_RAM::0	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	66;"	d	line:66
+_ROM::1	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	67;"	d	line:67
+_UCPU::0x00	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	54;"	d	line:54
+_USB_CDC_ACM_FN_DSC	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	301;"	s	line:301
+_USB_CDC_CALL_MGT_FN_DSC	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	320;"	s	line:320
+_USB_CDC_HEADER_FN_DSC	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	292;"	s	line:292
+_USB_CDC_UNION_FN_DSC	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	310;"	s	line:310
+_USB_DEVICE_STATUS	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	70;"	u	line:70
+_USIE::0x80	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	53;"	d	line:53
+_WORD	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	60;"	u	line:60
+_byte	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	46;"	m	line:46	union:_BYTE
+_byte	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	267;"	m	line:267	struct:_LINE_CODING::<anonymous>
+_byte	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	280;"	m	line:280	union:_CONTROL_SIGNAL_BITMAP
+_byte	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	72;"	m	line:72	union:_USB_DEVICE_STATUS
+_byte	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	82;"	m	line:82	union:_BD_STAT
+_dword	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	88;"	m	line:88	union:_DWORD
+_word	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	133;"	m	line:133	union:_POINTER
+_word	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	62;"	m	line:62	union:_WORD
+b0	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	49;"	m	line:49	struct:_BYTE::<anonymous>
+b1	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	50;"	m	line:50	struct:_BYTE::<anonymous>
+b2	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	51;"	m	line:51	struct:_BYTE::<anonymous>
+b3	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	52;"	m	line:52	struct:_BYTE::<anonymous>
+b4	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	53;"	m	line:53	struct:_BYTE::<anonymous>
+b5	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	54;"	m	line:54	struct:_BYTE::<anonymous>
+b6	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	55;"	m	line:55	struct:_BYTE::<anonymous>
+b7	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	56;"	m	line:56	struct:_BYTE::<anonymous>
+bCharFormat	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	272;"	m	line:272	struct:_LINE_CODING::<anonymous>
+bDataBits	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	274;"	m	line:274	struct:_LINE_CODING::<anonymous>
+bDataInterface	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	326;"	m	line:326	struct:_USB_CDC_CALL_MGT_FN_DSC
+bDscSubType	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	296;"	m	line:296	struct:_USB_CDC_HEADER_FN_DSC
+bDscSubType	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	305;"	m	line:305	struct:_USB_CDC_ACM_FN_DSC
+bDscSubType	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	314;"	m	line:314	struct:_USB_CDC_UNION_FN_DSC
+bDscSubType	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	324;"	m	line:324	struct:_USB_CDC_CALL_MGT_FN_DSC
+bDscType	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	247;"	m	line:247	file:
+bDscType	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	250;"	m	line:250	file:
+bDscType	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	255;"	m	line:255	file:
+bDscType	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	295;"	m	line:295	struct:_USB_CDC_HEADER_FN_DSC
+bDscType	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	304;"	m	line:304	struct:_USB_CDC_ACM_FN_DSC
+bDscType	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	313;"	m	line:313	struct:_USB_CDC_UNION_FN_DSC
+bDscType	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	323;"	m	line:323	struct:_USB_CDC_CALL_MGT_FN_DSC
+bFNLength	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	294;"	m	line:294	struct:_USB_CDC_HEADER_FN_DSC
+bFNLength	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	303;"	m	line:303	struct:_USB_CDC_ACM_FN_DSC
+bFNLength	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	312;"	m	line:312	struct:_USB_CDC_UNION_FN_DSC
+bFNLength	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	322;"	m	line:322	struct:_USB_CDC_CALL_MGT_FN_DSC
+bHigh	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	130;"	m	line:130	struct:_POINTER::<anonymous>
+bLength	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	247;"	m	line:247	file:
+bLength	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	250;"	m	line:250	file:
+bLength	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	255;"	m	line:255	file:
+bLow	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	129;"	m	line:129	struct:_POINTER::<anonymous>
+bMasterIntf	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	315;"	m	line:315	struct:_USB_CDC_UNION_FN_DSC
+bParityType	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	273;"	m	line:273	struct:_LINE_CODING::<anonymous>
+bRam	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	137;"	m	line:137	union:_POINTER
+bRom	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	142;"	m	line:142	union:_POINTER
+bSaveIntf0	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	316;"	m	line:316	struct:_USB_CDC_UNION_FN_DSC
+backlight	C:\MCHPFSUSB\fw\Cdc\user\user.c	85;"	v	line:85
+bcdCDC	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	297;"	m	line:297	struct:_USB_CDC_HEADER_FN_DSC
+bmCapabilities	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	306;"	m	line:306	struct:_USB_CDC_ACM_FN_DSC
+bmCapabilities	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	325;"	m	line:325	struct:_USB_CDC_CALL_MGT_FN_DSC
+byte	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	40;"	t	line:40
+byte0	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	65;"	m	line:65	struct:_WORD::<anonymous>
+byte0	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	91;"	m	line:91	struct:_DWORD::<anonymous>
+byte1	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	66;"	m	line:66	struct:_WORD::<anonymous>
+byte1	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	92;"	m	line:92	struct:_DWORD::<anonymous>
+byte2	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	93;"	m	line:93	struct:_DWORD::<anonymous>
+byte3	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	94;"	m	line:94	struct:_DWORD::<anonymous>
+byte_to_read	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	332;"	l	line:332
+byte_to_send	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	450;"	l	line:450
+byte_to_send	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	262;"	l	line:262
+cd01	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	55;"	v	line:55
+cdc_acm_fn_i01a00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	58;"	v	line:58
+cdc_call_mgt_fn_i01a00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	60;"	v	line:60
+cdc_data_rx	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	279;"	v	line:279
+cdc_data_tx	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	280;"	v	line:280
+cdc_header_fn_i01a00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	57;"	v	line:57
+cdc_mem_type	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	52;"	v	line:52
+cdc_notice	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	278;"	v	line:278
+cdc_rx_len	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	46;"	v	line:46
+cdc_trf_state	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	48;"	v	line:48
+cdc_tx_len	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	51;"	v	line:51
+cdc_union_fn_i01a00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	59;"	v	line:59
+col	C:\MCHPFSUSB\fw\Cdc\user\user.c	82;"	v	line:82
+contrast	C:\MCHPFSUSB\fw\Cdc\user\user.c	86;"	v	line:86
+control_signal_bitmap	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	55;"	v	line:55
+controller	C:\MCHPFSUSB\fw\Cdc\user\user.c	75;"	v	line:75
+ctrl_trf_mem	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h	76;"	m	line:76	struct:_USB_DEVICE_STATUS::<anonymous>
+ctrl_trf_session_owner	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	45;"	v	line:45
+ctrl_trf_state	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	44;"	v	line:44
+custom	C:\MCHPFSUSB\fw\Cdc\user\user.c	84;"	v	line:84
+customdone	C:\MCHPFSUSB\fw\Cdc\user\user.c	81;"	v	line:81
+delay_count	C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c	406;"	l	line:406	file:
+device_dsc	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	180;"	v	line:180
+dummy_encapsulated_cmd_response	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	64;"	v	line:64
+dummy_length::0x08	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	63;"	d	line:63	file:
+dwDTERate	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	271;"	m	line:271	struct:_LINE_CODING::<anonymous>
+dword	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	42;"	t	line:42
+ep02i_i01a00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	61;"	v	line:61
+ep03i_i02a00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	64;"	v	line:64
+ep03o_i02a00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	63;"	v	line:63
+ep0Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	175;"	v	line:175
+ep0Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	174;"	v	line:174
+ep10Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	225;"	v	line:225
+ep10Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	224;"	v	line:224
+ep11Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	230;"	v	line:230
+ep11Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	229;"	v	line:229
+ep12Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	235;"	v	line:235
+ep12Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	234;"	v	line:234
+ep13Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	240;"	v	line:240
+ep13Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	239;"	v	line:239
+ep14Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	245;"	v	line:245
+ep14Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	244;"	v	line:244
+ep15Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	250;"	v	line:250
+ep15Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	249;"	v	line:249
+ep1Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	180;"	v	line:180
+ep1Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	179;"	v	line:179
+ep2Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	185;"	v	line:185
+ep2Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	184;"	v	line:184
+ep3Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	190;"	v	line:190
+ep3Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	189;"	v	line:189
+ep4Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	195;"	v	line:195
+ep4Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	194;"	v	line:194
+ep5Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	200;"	v	line:200
+ep5Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	199;"	v	line:199
+ep6Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	205;"	v	line:205
+ep6Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	204;"	v	line:204
+ep7Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	210;"	v	line:210
+ep7Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	209;"	v	line:209
+ep8Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	215;"	v	line:215
+ep8Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	214;"	v	line:214
+ep9Bi	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	220;"	v	line:220
+ep9Bo	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	219;"	v	line:219
+getnewbuffer	C:\MCHPFSUSB\fw\Cdc\user\user.c	384;"	f	line:384	signature:(void)
+getnewbuffer	C:\MCHPFSUSB\fw\Cdc\user\user.c	95;"	p	line:95	file:	signature:(void)
+getnextbyte	C:\MCHPFSUSB\fw\Cdc\user\user.c	395;"	f	line:395	signature:(void)
+getnextbyte	C:\MCHPFSUSB\fw\Cdc\user\user.c	89;"	p	line:89	file:
+getnextbyte	C:\MCHPFSUSB\fw\Cdc\user\user.c	94;"	p	line:94	file:	signature:(void)
+getsUSBUSART	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	239;"	f	line:239	signature:(char *buffer, byte len)
+getsUSBUSART	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	340;"	p	line:340	signature:(char *buffer, byte len)
+getsUSBUSART	C:\MCHPFSUSB\fw\Cdc\user\user.c	96;"	p	line:96	file:	signature:(char *buffer, char len)
+i	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	135;"	l	line:135
+i	C:\MCHPFSUSB\fw\Cdc\user\user.c	72;"	v	line:72
+i01a00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	56;"	v	line:56
+i02a00	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h	62;"	v	line:62
+input_buffer	C:\MCHPFSUSB\fw\Cdc\user\user.c	66;"	v	line:66
+input_buffer_char	C:\MCHPFSUSB\fw\Cdc\user\user.c	64;"	v	line:64
+input_buffer_pointer	C:\MCHPFSUSB\fw\Cdc\user\user.c	62;"	v	line:62
+input_buffer_size	C:\MCHPFSUSB\fw\Cdc\user\user.c	63;"	v	line:63
+len	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	298;"	l	line:298
+len	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	379;"	l	line:379
+line_coding	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	54;"	v	line:54
+mCDCGetRxLength::cdc_rx_len	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	186;"	d	line:186
+mCDCUsartRxIsBusy::CDC_BULK_BD_OUT.Stat.UOWN	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	148;"	d	line:148
+mCDCUsartTxIsBusy::CDC_BULK_BD_IN.Stat.UOWN	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	167;"	d	line:167
+mUSBUSARTIsTxTrfReady::(cdc_trf_state==CDC_TX_READY)	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	129;"	d	line:129
+mUSBUSARTTxRam::(pData,len)\	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	215;"	d	line:215
+mUSBUSARTTxRom::(pData,len)\	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	250;"	d	line:250
+main	C:\MCHPFSUSB\fw\Cdc\main.c	122;"	f	line:122	signature:(void)
+nextchar	C:\MCHPFSUSB\fw\Cdc\user\user.c	79;"	v	line:79
+onebyte	C:\MCHPFSUSB\fw\Cdc\user\user.c	80;"	v	line:80
+output_buffer	C:\MCHPFSUSB\fw\Cdc\user\user.c	67;"	v	line:67
+pCDCDst	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	50;"	v	line:50
+pCDCSrc	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	49;"	v	line:49
+pDst	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	48;"	v	line:48
+pFunc	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	123;"	t	line:123
+pSrc	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	47;"	v	line:47
+position	C:\MCHPFSUSB\fw\Cdc\user\user.c	87;"	v	line:87
+putrsUSBUSART	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	377;"	f	line:377	signature:(const rom char *data)
+putrsUSBUSART	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	341;"	p	line:341	signature:(const rom char *data)
+putsUSBUSART	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c	296;"	f	line:296	signature:(char *data)
+putsUSBUSART	C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h	342;"	p	line:342	signature:(char *data)
+row	C:\MCHPFSUSB\fw\Cdc\user\user.c	83;"	v	line:83
+savecontroller	C:\MCHPFSUSB\fw\Cdc\user\user.c	74;"	v	line:74
+sd000	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	247;"	v	line:247
+sd001	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	250;"	v	line:250
+sd002	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	255;"	v	line:255
+self_power::1	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	61;"	d	line:61
+self_power::PORTAbits.RA5	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	59;"	d	line:59
+setupLCD	C:\MCHPFSUSB\fw\Cdc\user\user.c	166;"	f	line:166	signature:(void)
+setupLCD	C:\MCHPFSUSB\fw\Cdc\user\user.c	99;"	p	line:99	file:	signature:(void)
+sortCMD	C:\MCHPFSUSB\fw\Cdc\user\user.c	100;"	p	line:100	file:	signature:(void)
+sortCMD	C:\MCHPFSUSB\fw\Cdc\user\user.c	199;"	f	line:199	signature:(void)
+string	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	247;"	m	line:247	file:
+string	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	250;"	m	line:250	file:
+string	C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c	255;"	m	line:255	file:
+transient	C:\MCHPFSUSB\fw\Cdc\user\user.c	76;"	v	line:76
+tris_self_power::TRISAbits.TRISA5	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	56;"	d	line:56
+tris_usb_bus_sense::TRISAbits.TRISA4	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	48;"	d	line:48
+usb_active_cfg	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	159;"	v	line:159
+usb_alt_intf	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	160;"	v	line:160
+usb_bus_sense::1	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	53;"	d	line:53
+usb_bus_sense::PORTAbits.RA4	C:\MCHPFSUSB\fw\Cdc\io_cfg.h	51;"	d	line:51
+usb_device_state	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	157;"	v	line:157
+usb_stat	C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c	158;"	v	line:158
+v	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	115;"	m	line:115	struct:_DWORD::<anonymous>
+v	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	80;"	m	line:80	struct:_WORD::<anonymous>
+wCount	C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c	49;"	v	line:49
+wRam	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	139;"	m	line:139	union:_POINTER
+wRom	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	143;"	m	line:143	union:_POINTER
+whatcommand	C:\MCHPFSUSB\fw\Cdc\user\user.c	226;"	f	line:226	signature:(void)
+whatcommand	C:\MCHPFSUSB\fw\Cdc\user\user.c	98;"	p	line:98	file:	signature:(void)
+word	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	41;"	t	line:41
+word0	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	98;"	m	line:98	struct:_DWORD::<anonymous>
+word1	C:\MCHPFSUSB\fw\Cdc\system\typedefs.h	99;"	m	line:99	struct:_DWORD::<anonymous>

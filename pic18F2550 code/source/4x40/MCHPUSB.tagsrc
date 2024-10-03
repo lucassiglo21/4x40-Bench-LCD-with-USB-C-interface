@@ -1,0 +1,16 @@
+C:\MCHPFSUSB\fw\Cdc\main.c
+C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.c
+C:\MCHPFSUSB\fw\Cdc\system\usb\usbdrv\usbdrv.c
+C:\MCHPFSUSB\fw\Cdc\system\usb\usb9\usb9.c
+C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.c
+C:\MCHPFSUSB\fw\Cdc\system\usb\usbctrltrf\usbctrltrf.c
+C:\MCHPFSUSB\fw\Cdc\user\user.c
+C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.c
+C:\MCHPFSUSB\fw\Cdc\io_cfg.h
+C:\MCHPFSUSB\fw\Cdc\system\usb\usbmmap.h
+C:\MCHPFSUSB\fw\Cdc\autofiles\usbcfg.h
+C:\MCHPFSUSB\fw\Cdc\system\usb\usb.h
+C:\MCHPFSUSB\fw\Cdc\system\typedefs.h
+C:\MCHPFSUSB\fw\Cdc\autofiles\usbdsc.h
+C:\MCHPFSUSB\fw\Cdc\system\usb\class\cdc\cdc.h
+C:\MCHPFSUSB\fw\Cdc\user\user.h
