@@ -16,4 +16,5 @@ Everything should work with LCD and VFD displays.
 
 ![pic](pictures/20240930_162047.jpg)
 ![pic](/pictures/20240930_162054.jpg)
+![pic](/pictures/20240930_154130.jpg)
 ![pic](/pictures/20241003_035315.jpg)
