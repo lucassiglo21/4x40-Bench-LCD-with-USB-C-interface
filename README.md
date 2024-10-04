@@ -13,3 +13,7 @@ Im providing the following:
 3- Source code for the PIC18F2550 with brightness and contrast control. The project is built for MPLAB X IDE v6.20 with the C18 compiler 
 
 Everything should work with LCD and VFD displays.
+
+![pic](pictures/20240930_162047.jpg)
+![pic](/pictures/20240930_162054.jpg)
+![pic](/pictures/20241003_035315.jpg)
