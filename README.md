@@ -1,4 +1,4 @@
-# 4x40-Bench-LCD-with-USB-C-interface
+# 4x40 Bench LCD with USB-C interface for LCD Smartie
 This is a 40x4 character LCD controller and a machined aluminum case with an USB-C interface based around a PIC18F2550
 It's intended to work with LCDSmartie
 
