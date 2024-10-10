@@ -105,7 +105,7 @@ void LCDposition(char col, char row);
 
 char LCDbusy(void);
 char LCDcustom(void);
-
+char start[27] = "            **LCD SMARTIE**";
 
 /** D E C L A R A T I O N S **************************************************/
 #pragma code
@@ -168,7 +168,7 @@ void setupLCD(void)
 	switch(LCDsetupstate)
 	{
 		case 0 : LCDsetupstate++; break;
-
+        
 		//config 8 bit mode, 2 line, display on
 		case 1 : LCDw(0b00111100); LCDsetupstate++; break;
         // set VFD brightness
@@ -192,8 +192,15 @@ void setupLCD(void)
 		case 10 : if(!LCDbusy()){LCDch(68); LCDsetupstate++;} break;
 		case 11 : if(!LCDbusy()){LCDch(79); LCDsetupstate++;} break;
 		case 12 : if(!LCDbusy()){LCDch(67); LCDsetupstate++;} break;
-		//singnal LCDisSetup
-		case 13 : LCDready=1; controller=1; break;
+        
+		//signal LCDisSetup
+		case 13 : 
+            input_buffer_pointer=0;
+            input_buffer_size=0; 
+            clear_input_buffer(); 
+            LCDready=1; 
+            controller=1; 
+            break;
 	}
 }
 
@@ -404,6 +411,16 @@ void LCDposition(char col, char row)
 	LCDw(position);
 }
 
+void LCDstr(char* data, int len)
+{
+    int i;
+    for(i=0;i<len;i++)
+    {
+        LCDch(data[i]); 
+        while(LCDbusy()){}     
+    }
+}
+
 
 /*** USB Buffering ***************************************/
 
@@ -429,6 +446,15 @@ char getnextbyte(void)
 	input_buffer_char=input_buffer[input_buffer_pointer];
 	input_buffer_pointer++;
 	return 1;
+}
+
+void clear_input_buffer(void)
+{
+    int i;
+    for(i=0;i<64;i++)
+    {
+        input_buffer[i]=0;
+    }
 }
 
 /** EOF user.c ***************************************************************/
